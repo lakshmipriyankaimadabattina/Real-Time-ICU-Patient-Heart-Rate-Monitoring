@@ -80,7 +80,7 @@ Alerts in this batch: 474
 (See screenshots/alert_output.png for full console screenshot.)
 
 ![Alert Output 1](screenshot-1.png)
-![Alert Output 2](screenshots-2.png)
+![Alert Output 2](screenshot-2.png)
 
 ## Project Structure
 
